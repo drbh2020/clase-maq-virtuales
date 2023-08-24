@@ -1,0 +1,4 @@
+1. Porque el lenguaje debe compilar en una maquina de arquitectura de cpu similar
+2. Maquina virutal de sistemas
+3. Es el lugar donde se nos permite crear diferente maquina virutales independientes entre si
+4. No, porque son independientes del sistema operativo principal y entre si
